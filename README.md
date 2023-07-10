@@ -3,14 +3,14 @@
 This repository contains a crop prediction model that utilizes soil nutrient values, including soil pH, nitrogen, phosphorus, soil moisture, and potassium, to predict suitable crops for a given soil condition. The model aims to assist farmers and agricultural practitioners in making informed decisions about crop selection based on soil characteristics.
 
 ### Table of Contents
-Introduction
-Installation
-Usage
-Model Architecture
-Data Preparation
-Training
-Evaluation
-Prediction
+Introduction, 
+Installation,
+Usage,
+Model Architecture,
+Data Preparation,
+Training,
+Evaluation,
+Prediction,
 Contributing
 
 ### Introduction
